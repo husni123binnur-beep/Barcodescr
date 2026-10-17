@@ -1,0 +1,2 @@
+# Barcodescr
+Aplikasi pengiriman barang
